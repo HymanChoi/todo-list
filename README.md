@@ -16,7 +16,7 @@ npm install/cnpm install
 ```
 npm run serve
 ```
-3. 编译压缩打包
+3. 压缩打包
 ```
 npm run build
 ```

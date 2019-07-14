@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+/* 去除无序列表前面的黑点 */
+li {
+  list-style: none;
+}
+h3 {
+  margin-left: 20px;
+}
+span {
+  margin: 0 20px;
+}
+button {
+  /* 去除按钮点击之后的蓝框 */
+  outline: none;
+  color: white;
+  border: none;
+  border-radius: 5%;
+  padding: 10px 20px;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+}
+button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+.btn1 {
+  background-color: #4caf50;
+  margin-right: 20px;
+}
+.btn2 {
+  background-color: #f44336;
+}
+.btn3 {
+  background-color: #008cba;
+}
+.checkbox {
+  zoom: 150%;
+  vertical-align: middle;
+}
+.header {
+  background-color: #555555;
+}
+.input {
+  padding: 10px;
+  margin: 15px 20px;
+  font-size: 14px;
+  width: 300px;
+}
+.span_done {
+  color: #aaa;
+  text-decoration: line-through;
+}
+.item {
+  margin: 10px 0;
+}
+.row {
+  vertical-align: middle;
+}
