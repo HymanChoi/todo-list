@@ -132,11 +132,12 @@ button:hover {
   zoom: 150%;
   vertical-align: middle;
 }
-span{
+span {
   margin: 0 20px;
 }
 .span_done {
   color: #aaa;
+  text-decoration: line-through;
 }
 .item {
   margin: 10px 0;
