@@ -1,6 +1,6 @@
 
 # TodoList
-[项目预览](https://hymanchoi.github.io/TodoList/dist.index.html)
+[项目预览](https://hymanchoi.github.io/TodoList/dist/index.html)
 
 ### 项目介绍
 这是一个基于Vue的TodoList，包含基本的添加，删除事件功能，能切换“未完成”和“已完成”事件，利用Local Storage作本地数据存储，并能一键清除缓存。
